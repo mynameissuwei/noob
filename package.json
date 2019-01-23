@@ -120,8 +120,8 @@
       "react-app"
     ]
   },
+  "homepage": "https://mynameissuwei.github.io/noob",
   "devDependencies": {
     "less-loader": "^4.1.0"
-  },
-  "homepage": "https://mynameissuwei.github.io/noob/"
+  }
 }
